@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+scheduler_viz
+scheduler_viz.exe
+*.o
+*.d
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
