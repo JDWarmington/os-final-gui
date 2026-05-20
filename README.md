@@ -44,13 +44,7 @@ os-final-gui/
 
 ## Build (Linux)
 
-Install the SDL2 development packages and a fallback font:
-
-```bash
-sudo apt install build-essential libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev fonts-dejavu-core
-```
-
-Then build and run from the project root:
+Build and run from the project root:
 
 ```bash
 make
