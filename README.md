@@ -55,11 +55,6 @@ make run
 
 Clean build artifacts with `make clean`.
 
-> **Note on fonts.** The renderer searches `assets/fonts/font.ttf` first
-> and falls back to common system font paths. If you see
-> `Renderer: failed to load any TTF font.`, copy any `.ttf` into
-> `assets/fonts/font.ttf` (DejaVuSans works well).
-
 ## Controls
 
 | Key | Action |
