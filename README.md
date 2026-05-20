@@ -36,7 +36,6 @@ os-final-gui/
 │   ├── Renderer.h /.cpp  # SDL drawing + font + texture helpers
 │   └── Types.h         # shared structs and enums
 └── assets/
-    ├── fonts/          # drop a font.ttf here (auto-falls-back otherwise)
     └── images/
         └── cpu.png     # CPU icon loaded via SDL_image
 ```
