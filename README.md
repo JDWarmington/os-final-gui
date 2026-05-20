@@ -29,7 +29,6 @@ what an actual scheduling monitor would look like.
 os-final-gui/
 ├── Makefile
 ├── README.md
-├── prompt.md
 ├── src/
 │   ├── main.cpp        # entry point
 │   ├── App.h / App.cpp # window, event loop, panel layout
